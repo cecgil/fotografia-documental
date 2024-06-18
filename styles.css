@@ -7,7 +7,7 @@
     padding-bottom: 44px;
     padding-left: 6%;
     padding-right: 5.5%;
-    padding-top: 52px;
+    padding-top: 10px;
     background-color: white;
     position: relative;
     z-index: 3;
@@ -22,8 +22,11 @@
 /* Estilos para o corpo da página */
 .page-content {
     text-align: center;
-    padding-top: 20px; /* Ajuste conforme necessário */
+    padding-top: 5px; /* Ajuste conforme necessário */
+    color: #000000;
+    font-family: "Poppins", sans-serif;
 }
+
 
 .page-header {
     margin-left: auto;
@@ -39,7 +42,8 @@
 
 .page-header p {
     font-size: 1.2em;
-    color: #333;
+    color: #999;
+    font-family: times;
 }
 
 /* Estilos para a imagem na página */
